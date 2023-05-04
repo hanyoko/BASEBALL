@@ -25,4 +25,7 @@
 ![Baseball2](https://user-images.githubusercontent.com/119985173/236149488-464d9b25-4ffe-4ab9-be96-13e2d061ef2e.PNG)
 > - 여기서 while을 사용해 조건문을 걸었습니다.
 > - Prompt에 이름을 세글자를 초과하면 다음 단계로 넘어가지 않도록 했고,
-> - 세글자 이내로 입력 시 break를 통해 빠져나가도록 설계했습니다.
+> - 세글자 이내로 입력 시 력한 팀 이름을 변수 값에 담은 후 break를 통해 빠져나가도록 설계했습니다.
+
+![Baseball3](https://user-images.githubusercontent.com/119985173/236149535-951365e8-b0e3-4fe4-a53e-81a792e4ded8.PNG)
+> - [팀 이름 변수 값] 팀의 승리를 응원합니다 ! 라는 알림창과 함께 게임이 시작됩니다. 
