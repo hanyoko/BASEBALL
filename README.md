@@ -1,16 +1,16 @@
 # ⚾ BASEBALL ⚾
 ![baseball](https://user-images.githubusercontent.com/119985173/236123763-b54cada4-17d6-4acb-85c8-a30ce8fd79b0.PNG)
 
-## 🏠 [HOME PAGE](http://hanyoko.dothome.co.kr/baseball)
+# 🏠 [HOME PAGE](http://hanyoko.dothome.co.kr/baseball)
 
-## 🖥️ 프로젝트 소개
+# 🖥️ 프로젝트 소개
 내 꿈은 홈런왕
 > - Javascript 조건문 수업을 들었을 때, 이해가 되지 않아 복습을 위해 팀을 모아 만든 야구게임 프로젝트입니다. 
 
-### ⏱ 개발 기간
+## ⏱ 개발 기간
 > - 22.11.18 - 22.11.25
 
-### 📋 야구 규칙
+## 📋 야구 규칙
 > - Strike 3개 : Out 1개
 > - Ball 4개 : 출루 1개
 > - 출루 4개 : 1점
@@ -19,8 +19,8 @@
 > - 턴 : 1회 ~ 9회
 > - 회 : 초 - 컴퓨터의 턴 / 말 - 사용자의 턴
 
-### ⚾ 게임 소개
-#### 1. 게임시작화면
+## ⚾ 게임 소개
+### 1. 게임시작화면
 ![Baseball1](https://user-images.githubusercontent.com/119985173/236149422-e5222010-18b3-430a-9147-859ed616f3b5.PNG)
 > - 게임시작 전 사용자의 이름을 입력합니다.
 
@@ -32,7 +32,7 @@
 ![Baseball3](https://user-images.githubusercontent.com/119985173/236149535-951365e8-b0e3-4fe4-a53e-81a792e4ded8.PNG)
 > - [팀 이름 변수 값] 팀의 승리를 응원합니다 ! 라는 알림창과 함께 게임이 시작됩니다. 
 
-#### 2. 게임시작
+### 2. 게임시작
 ![Baseball4](https://user-images.githubusercontent.com/119985173/236149641-d7bc8e94-3908-4bf0-af4e-c01f80f39279.PNG)
 > - 상단 중앙에 위치한 점수판에 팀 이름 변수값이 입력되고 각 회가 종료 시 총 점수가 나타납니다.
 > - 점수판 아래는 텍스트 출력판입니다. 버튼을 눌러 출력된 랜덤 값에 맞는 텍스트가 출력됩니다.
