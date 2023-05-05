@@ -43,3 +43,58 @@
 > - 필살기는 각 턴에 단 한번만 사용이 가능하고, 사용 후에는 비활성화 되도록 했습니다.<br/>
 > (컴퓨터의 필살기 : 아웃 / 사용자의 필살기 : 홈런)
 > - 아웃이 3개가 되어 공수교대를 하거나 필살기를 사용 시 필드 중앙에 크게 텍스트가 출력되도록 설계했습니다.
+
+#### 컴퓨터 스트라이크
+![Baseball 컴퓨터-스트라이크](https://user-images.githubusercontent.com/119985173/236150307-2ff9719a-dc0a-4ffc-8e5b-53703dc36b69.PNG)
+
+#### 컴퓨터 볼, 아웃
+![Baseball 컴퓨터-볼, 아웃](https://user-images.githubusercontent.com/119985173/236150426-2fd4e133-d04c-4a32-88f1-b701b19148f7.PNG)
+
+#### 컴퓨터 파울
+![Baseball 컴퓨터-파울](https://user-images.githubusercontent.com/119985173/236151170-b447ed0e-149d-40cd-8e09-e90a6fa36814.PNG)
+
+#### 컴퓨터 안타
+![Baseball 컴퓨터-안타](https://user-images.githubusercontent.com/119985173/236154313-58d46965-1738-45ce-8a47-e1e48eb3c06a.PNG)
+
+#### 컴퓨터 필살기
+![Baseball 컴퓨터-필살기](https://user-images.githubusercontent.com/119985173/236151098-57c83190-06c5-4274-83a9-4c91b754502c.PNG)
+
+#### 컴퓨터 공수교대
+![Baseball 컴퓨터-공수교대](https://user-images.githubusercontent.com/119985173/236150885-7eabbcf4-7565-4241-8b79-77f86c4d6f21.PNG)
+
+#### 컴퓨터 홈런
+![Baseball 컴퓨터-홈런](https://user-images.githubusercontent.com/119985173/236150795-5781e10e-ca86-472b-bbde-9882e33e6d8f.PNG)
+
+#### 사용자 스트라이크
+![Baseball 사용자-스트라이크](https://user-images.githubusercontent.com/119985173/236152203-d03f8f84-15c3-4e6d-9c47-63823b865915.PNG)
+
+#### 사용자 볼
+![Baseball 사용자-볼](https://user-images.githubusercontent.com/119985173/236152128-ee6d4aca-f1b4-4338-95b2-b17cce4394b6.PNG)
+
+#### 사용자 파울
+![Baseball 사용자-파울](https://user-images.githubusercontent.com/119985173/236152351-4cd4123e-4246-4605-8abf-3ef92e9adab2.PNG)
+
+#### 사용자 안타
+![Baseball 사용자-안타](https://user-images.githubusercontent.com/119985173/236152267-39031587-35db-4914-9557-74e263e2a6cc.PNG)
+
+#### 사용자 홈런
+![Baseball 사용자-홈런](https://user-images.githubusercontent.com/119985173/236154772-3054a6c6-5ed3-4831-9e4d-342743da936d.PNG)
+
+#### 사용자 필살기
+![Baseball 사용자-필살기](https://user-images.githubusercontent.com/119985173/236152457-4ef35966-0195-493b-b6bf-d8d9b72e0c81.PNG)
+
+#### 사용자 공수교대
+![Baseball 사용자-공수교대](https://user-images.githubusercontent.com/119985173/236152039-cf76f76e-0c6c-4c0d-881c-9434936fe27f.PNG)
+
+### 3. 게임종료
+#### 사용자 승리
+![Baseball 사용자 승리](https://user-images.githubusercontent.com/119985173/236151637-c3ccd841-ad6e-4d18-a6d3-f7fb695c55cb.PNG)
+![Baseball 사용자 승리2](https://user-images.githubusercontent.com/119985173/236151712-844c8124-c9cc-4312-be9f-d7ddcb481e59.PNG)
+
+#### 사용자 패배 
+![Baseball 사용자 패배](https://user-images.githubusercontent.com/119985173/236151815-37888276-75cb-495f-bf10-d2ef2a886e4d.PNG)
+![Baseball 사용자 패배2](https://user-images.githubusercontent.com/119985173/236151915-6daceac4-0578-4f73-8bb5-5b7071629837.PNG)
+
+#### Draw
+![Baseball Draw](https://user-images.githubusercontent.com/119985173/236151576-1a7fb089-c0c0-470e-8367-fc0e71042967.PNG)
+![Baseball Draw2](https://user-images.githubusercontent.com/119985173/236154836-f51a4e47-8fa7-4191-bfaa-56cd8d0fbf27.PNG)
