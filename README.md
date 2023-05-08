@@ -44,6 +44,7 @@
 > (컴퓨터의 필살기 : 아웃 / 사용자의 필살기 : 홈런)
 > - 아웃이 3개가 되어 공수교대를 하거나 필살기를 사용 시 필드 중앙에 크게 텍스트가 출력되도록 설계했습니다.
 
+<details><summary>3. 인게임 사진</summary>
 #### 컴퓨터 스트라이크
 ![Baseball 컴퓨터-스트라이크](https://user-images.githubusercontent.com/119985173/236150307-2ff9719a-dc0a-4ffc-8e5b-53703dc36b69.PNG)
 
@@ -86,7 +87,7 @@
 #### 사용자 공수교대
 ![Baseball 사용자-공수교대](https://user-images.githubusercontent.com/119985173/236152039-cf76f76e-0c6c-4c0d-881c-9434936fe27f.PNG)
 
-### 3. 게임종료
+### <details><summary>3. 게임종료 사진</summary>
 #### 사용자 승리
 ![Baseball 사용자 승리](https://user-images.githubusercontent.com/119985173/236151637-c3ccd841-ad6e-4d18-a6d3-f7fb695c55cb.PNG)
 ![Baseball 사용자 승리2](https://user-images.githubusercontent.com/119985173/236151712-844c8124-c9cc-4312-be9f-d7ddcb481e59.PNG)
